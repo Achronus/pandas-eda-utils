@@ -1,2 +1,3 @@
-# pandas-eda-utils
-A collection of functions for speeding up Exploratory Data Analysis in Pandas
+# Pandas EDA Utility Methods
+
+A collection of functions for speeding up Exploratory Data Analysis in Pandas.
